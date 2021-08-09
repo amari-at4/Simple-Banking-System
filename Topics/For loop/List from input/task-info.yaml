@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    n = int(input())
+    for _i in range(n):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6739#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 04 Aug 2021 21:33:06 UTC
+record: -1
